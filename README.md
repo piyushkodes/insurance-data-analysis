@@ -2,7 +2,7 @@
 
 This project was created while learning data analysis and machine learning using Python.
 
-In this project, I worked on an insurance dataset and performed data cleaning, preprocessing, visualization and feature engineering.
+In this project, I worked on an insurance dataset and performed data cleaning, preprocessing, visualization, feature engineering and machine learning.
 
 ## What I Did
 
@@ -16,6 +16,13 @@ In this project, I worked on an insurance dataset and performed data cleaning, p
 - Created BMI categories
 - Performed feature selection
 
+## Machine Learning
+
+- Applied Train-Test Split
+- Trained a Linear Regression model
+- Generated predictions
+- Evaluated model using R² Score
+
 ## Libraries Used
 
 - Pandas
@@ -27,15 +34,12 @@ In this project, I worked on an insurance dataset and performed data cleaning, p
 ## Learning Outcome
 
 Through this project, I learned:
+
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Preprocessing
 - Feature Engineering
 - Feature Selection
-
-## Machine Learning
-
-- Applied Train-Test Split
-- Trained a Linear Regression model
-- Generated predictions
-- Evaluated model using R² Score
+- Train-Test Split
+- Linear Regression
+- Model Evaluation using R² Score
