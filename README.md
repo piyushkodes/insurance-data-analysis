@@ -32,3 +32,10 @@ Through this project, I learned:
 - Data Preprocessing
 - Feature Engineering
 - Feature Selection
+
+## Machine Learning
+
+- Applied Train-Test Split
+- Trained a Linear Regression model
+- Generated predictions
+- Evaluated model using R² Score
